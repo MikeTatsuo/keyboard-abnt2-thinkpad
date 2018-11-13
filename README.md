@@ -10,9 +10,11 @@ Copiar o arquivo br-abnt2-thinkpad.map.gz para a pasta /usr/share/kbd/keymaps/i3
 cp br-abnt2-thinkpad.map.gz /usr/share/kbd/keymaps/i386/qwerty/br-abnt2-thinkpad.map.gz
 ```
 
-Incluir o comando em /etc/rc.d/rc.local
+Substituit o comando em /etc/rc.d/rc.keymap
 ```
-loadkeys /usr/share/kbd/keymaps/i386/qwerty/br_lenovo_t400.map.gz
+if [ -x /usr/bin/loadkeys ]; then
+    /usr/bin/loadkeys br-thinkpad-abnt2.map
+fi
 ```
 
 ## Autor
