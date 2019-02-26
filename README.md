@@ -1,6 +1,9 @@
-# Mapa de caracteres para o teclado Lenovo Thinkpad
+# Mapa de caracteres para o teclado Lenovo ThinkPad
 
-Mapa de caracteres para o teclado Lenovo Thinkpad no padrão ABNT2 pt-BR
+![Keyboard ABNT2 Lenovo ThinkPad] (https://miketatsuo.github.io/assets/img/keyboard-abnt2-thinkpad.jpg)
+
+
+Mapa de caracteres para o teclado Lenovo Thinkpad no padrão ABNT2 pt-BR para Linux
 
 ### Instalação
 
@@ -19,4 +22,4 @@ fi
 
 ## Autor
 
-* **Mike Tatsuo** - [MikeTatsuo](https://github.com/MikeTatsuo)
+* [**MikeTatsuo**](https://github.com/MikeTatsuo)
