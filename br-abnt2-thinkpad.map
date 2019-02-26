@@ -1,6 +1,7 @@
 # br-abnt2-thinkpad.map
 # Mapa para teclados ABNT2 - Lenovo Thinkpad
-# Mike Tatsuo <mike_tatsuo@hotmail.com>
+# Original by: Antonio Dias <accdias@sst.com.br>
+# Modified by: Mike Tatsuo <mike_tatsuo@hotmail.com>
 #
 alt_is_meta
 keymaps 0-2,4-6,8,12
