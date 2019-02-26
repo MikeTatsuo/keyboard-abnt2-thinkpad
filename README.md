@@ -2,7 +2,6 @@
 
 ![Keyboard ABNT2 Lenovo ThinkPad] (https://miketatsuo.github.io/assets/img/keyboard-abnt2-thinkpad.jpg)
 
-
 Mapa de caracteres para o teclado Lenovo Thinkpad no padrão ABNT2 pt-BR para Linux
 
 ## Instalação
@@ -26,7 +25,7 @@ Após instalado reinicie o computador.
 Copie o arquivo `br-abnt2-thinkpad.map.gz` para a pasta `/usr/share/kbd/keymaps/i386/qwerty/`
 
 ```
-cp br-abnt2-thinkpad.map.gz /usr/share/kbd/keymaps/i386/qwerty/br-abnt2-thinkpad.map.gz
+cp br-thinkpad-abnt2.map.gz /usr/share/kbd/keymaps/i386/qwerty/br-thinkpad-abnt2.map.gz
 ```
 
 Edite o script em `/etc/rc.d/rc.keymap` para ficar igual ao script abaixo
